@@ -9,5 +9,5 @@ dependencies:
   - python=3.9.16                 # https://pyreadiness.org/3.9
   - pip=22.1.2                    # https://pip.pypa.io/en/stable/news
   - pip:
-    - rpaframework==24.0.0        # https://rpaframework.org/releasenotes.html
-    - robocorp==0.8.1             # https://pypi.org/project/robocorp
+    - rpaframework==24.1.2        # https://rpaframework.org/releasenotes.html
+    - robocorp==0.8.2            # https://pypi.org/project/robocorp
